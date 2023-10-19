@@ -1,4 +1,7 @@
 # Uni Meet App
+
+<img width="658" alt="Screenshot 2023-10-19 at 13 40 04" src="https://github.com/uni-meet/.github/assets/112544437/4f6c5a58-3698-4c02-b84a-58df6bef7760">
+
 ## Click to redirect to our website: https://unigram.onrender.com/
 ## Table of Contents
 - [Introduction](#introduction)
