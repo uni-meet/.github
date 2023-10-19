@@ -16,6 +16,7 @@
 ## Introduction
 
 Welcome to Uni Meet, a fantastic app designed and developed by a dedicated team of five developers as a project for our first course. Uni Meet is a versatile application that brings students together through three different themes in the frontend, allowing them to connect and engage with their peers. This README provides an in-depth overview of the Uni Meet app and its functionalities.
+<img width="1397" alt="Screenshot 2023-10-19 at 13 23 23" src="https://github.com/uni-meet/.github/assets/112544437/e1e39e2c-6bf2-4dc0-8cb0-f2aa6028fe10">
 
 ---
 
@@ -23,13 +24,13 @@ Welcome to Uni Meet, a fantastic app designed and developed by a dedicated team 
 
 Our development team consists of five talented individuals, each contributing their unique skills and expertise to create Uni Meet:
 
-- **Mariia Glushenkova**: Backend Developer, responsible for implementing the complex backend functionality with Node.js, Express.js, MongoDB, and various other technologies.
+- [**@maguitaria**](https://github.com/maguitaria) Backend Developer, responsible for implementing the complex backend functionality with Node.js, Express.js, MongoDB, and various other technologies.
 
 - **Frontend Developers**:
-    - Developer 1
-    - Developer 2
-    - Developer 3
-    - Developer 4
+    - [@RENDEL](https://github.com/R3NDL) 
+    - [@oksunbaris](https://github.com/orgs/uni-meet/people/okcunbaris)
+    -[@nishakumari](https://github.com/t1kuni01)
+    - [@vanshika-saini](https://github.com/Vanshika-Saini)
 
 ---
 
@@ -62,6 +63,14 @@ Uni Meet leverages several technologies to provide a seamless user experience:
 ## Functionality
 
 Uni Meet offers a wide range of functionalities to users, including:
+ ### Backend is created with:
+Node.js
+Express.js
+MongoDB
+Body-parser
+Cors
+Dotenv
+Nodemon
 
 ### Users
 - Signup
@@ -100,7 +109,7 @@ Uni Meet is accessible through its hosted website. Users can sign up, log in, an
 
 ## Feedback
 
-We value your feedback! If you have any suggestions, questions, or encounter any issues while using Uni Meet, please don't hesitate to reach out to us via the provided feedback form.
+We value your feedback! If you have any suggestions, questions, or encounter any issues while using Uni Meet, please don't hesitate to reach out to us via the organisator email: t2glma00@students.oamk.fi
 
 ---
 
