@@ -24,13 +24,16 @@ Welcome to Uni Meet, a fantastic app designed and developed by a dedicated team 
 
 Our development team consists of five talented individuals, each contributing their unique skills and expertise to create Uni Meet:
 
-- [**@maguitaria**](https://github.com/maguitaria) Backend Developer, responsible for implementing the complex backend functionality with Node.js, Express.js, MongoDB, and various other technologies.
 
 - **Frontend Developers**:
     - [@RENDEL](https://github.com/R3NDL) 
     - [@oksunbaris](https://github.com/orgs/uni-meet/people/okcunbaris)
     -[@nishakumari](https://github.com/t1kuni01)
     - [@vanshika-saini](https://github.com/Vanshika-Saini)
+ 
+      
+- **Backend powered**:
+- [**@maguitaria**](https://github.com/maguitaria) Backend Developer, responsible for implementing the complex backend functionality with Node.js, Express.js, MongoDB, and various other technologies.
 
 ---
 
